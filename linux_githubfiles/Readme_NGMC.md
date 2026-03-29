@@ -1,8 +1,8 @@
-# oss-audit-[apna-reg-no]
+# oss-audit-[24BCE10412]
 
-**Name:** Naam likho
-**Register No:** 24BCE
-**Course:** Open Source Software | VIT
+**Name:** CHANDRAMANI
+**Register No:** 24BCE10412
+**Course:** Open Source Software | VIT BHOPAL
 **Chosen Software:** Git
 
 ---
